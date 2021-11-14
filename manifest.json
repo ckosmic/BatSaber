@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "BatSaber",
+  "name": "BatSaber",
+  "author": "ckosmic",
+  "version": "1.0.0",
+  "description": "Bat... Saber.",
+  "gameVersion": "1.18.3",
+  "dependsOn": {
+    "BSIPA": "^4.0.5",
+    "SiraUtil": "^2.5.8"
+  },
+  "features": []
+}
